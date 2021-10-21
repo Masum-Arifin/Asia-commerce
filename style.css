@@ -58,5 +58,8 @@
 }
 footer{
   text-align: center;
-  color: #ff136f;
+  color: #01ffff;
+  background-color:gray;
+  height: 100px;
+  padding-top: 25px;
 }
