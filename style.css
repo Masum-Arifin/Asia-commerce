@@ -1,0 +1,62 @@
+.logo-img {
+  width: 150px;
+}
+.orange-bg {
+  background-color: #fceae8;
+}
+.carousel-item {
+  padding: 20px 40px;
+}
+.price {
+  color: #ff136f;
+}
+.buy-now-button {
+  background-image: linear-gradient(to bottom, #ff136f 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+.container{
+    margin-bottom: 100px;
+}
+.cat1{
+  background-color: rgb(255, 102, 0);
+  padding: 10px 30px; 
+  border-radius: 10px;
+}
+.cat2{
+  background-color: rgb(199, 218, 112);
+  padding: 20px 5px;
+   border-radius: 10px;
+  
+ 
+}
+.cat3{
+  background-color: blue;
+  padding: 0px 30px;
+   border-radius: 10px;
+   
+}
+.categories h1{
+  color: #fff;
+  text-align: center;
+}
+.categories img{
+  width: 100px;
+}
+.card{
+  border: none;
+  box-shadow: 5px 5xp 10px;
+}
+#about-asia{
+  height: 300px;
+}
+#about-asia h6{
+  color: gray;
+}
+footer{
+  text-align: center;
+  color: #ff136f;
+}
